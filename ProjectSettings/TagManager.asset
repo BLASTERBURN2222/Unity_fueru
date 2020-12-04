@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TAG_BALLOON
+  - TAG_OUTZONE
+  - TAG_ENEMY
+  - TAG_MYSHOT
+  - TAG_ZIKI
+  - TAG_ENESHOT
+  - TAG_ITEM
+  - TAG_MOVEITEM
+  - TAG_BLOCK
+  - TAG_SHIELD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - L_Balloon
+  - L_ZIKI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer_BG
+    uniqueID: 3080371145
+    locked: 0
+  - name: Layer_BALLOON
+    uniqueID: 3934534289
+    locked: 0
+  - name: Layer_BA_MOJI
+    uniqueID: 2113027671
+    locked: 0
+  - name: Layer_HI
+    uniqueID: 3273302949
+    locked: 0
+  - name: Layer_BOSS
+    uniqueID: 3440018153
+    locked: 0
+  - name: Layer_ZAKO
+    uniqueID: 3539901717
+    locked: 0
+  - name: Layer_MYSHOT
+    uniqueID: 3609294093
+    locked: 0
+  - name: Layer_SHIELD
+    uniqueID: 1478188569
+    locked: 0
+  - name: Layer_ZIKI
+    uniqueID: 3177599615
+    locked: 0
+  - name: Layer_ENESHOT
+    uniqueID: 1279860849
+    locked: 0
+  - name: Layer_BAKU
+    uniqueID: 1135460793
+    locked: 0
+  - name: Layer_ITEM
+    uniqueID: 1479658717
+    locked: 0
+  - name: Layer_MOJI
+    uniqueID: 3426756061
+    locked: 0
+  - name: Layer_MOJIUP
+    uniqueID: 383986497
+    locked: 0
